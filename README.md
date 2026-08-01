@@ -12,7 +12,7 @@
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
 
 ## About
 
@@ -30,7 +30,7 @@ Final-year MCA student with 6 months of hands-on full stack experience — shipp
 - Currently sharpening **DSA, system design, and DBMS** ahead of placements
 - Depth in: authentication & authorization, payment gateway integration, voice AI agents
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
 
 ## Tech Stack
 
@@ -38,24 +38,15 @@ Final-year MCA student with 6 months of hands-on full stack experience — shipp
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,mysql,redis,tailwind,docker,java,spring&theme=dark" />
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
 
 ## Experience
-
-<table>
-<tr>
-<td width="4px" style="background:#6366F1;"></td>
-<td>
 
 **Full Stack Development Intern** — NomoToyz *(Remote)* &nbsp;&nbsp;`Dec 2025 – Jun 2026`
 
 Built and maintained 15+ REST APIs for authentication, payments, and admin operations. Implemented JWT, Google OAuth 2.0, and Razorpay integration; hardened security with AWS S3, Redis, and bcrypt. Delivered a 12-page React admin dashboard with protected routes and reusable components.
 
-</td>
-</tr>
-</table>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
 
 ## Featured Projects
 
@@ -96,7 +87,25 @@ AI-powered job portal with a Llama 3 chatbot and face-detection freelancer verif
 <img src="https://img.shields.io/badge/IoT-6366F1?style=flat-square" /> <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat-square" /> <img src="https://img.shields.io/badge/Embedded%20Systems-6366F1?style=flat-square" />
 </p>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ApekshaPatil24&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ApekshaPatil24/ApekshaPatil24/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<sub align="center">Set up via GitHub Action — see setup file below.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0F172A&height=3" />
 
 ## GitHub Activity
 
